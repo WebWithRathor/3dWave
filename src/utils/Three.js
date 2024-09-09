@@ -91,7 +91,7 @@ class Imageswave {
 
         const uniforms = {
             uTime: { value: 0 },
-            uTimeline: { value: 0.0 },
+            uTimeline: { value: 2.0 },
             uStartIndex: { value: 0 },
             uEndIndex: { value: 1 },
             uImage1: { value: texture[0] },
